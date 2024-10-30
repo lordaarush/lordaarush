@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarush Sinha</h1>
-<h3 align="center">An AI/ML enthusiast from New Delhi, India</h3>
+<h3 align="center">An AI/ML developer from New Delhi, India</h3>
 
 - 🔭 I’m currently working on **Finetuning LLM's and creating RAG workflows**
 
