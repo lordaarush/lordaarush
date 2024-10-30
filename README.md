@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Finetuning LLM's and creating RAG workflows**
 
-- 🌱 I’m currently learning **RAGs, LLM Finetuning, React**
-
 - 👯 I’m looking to collaborate on **more end to end LLM projects**
 
 - 👨‍💻 My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
