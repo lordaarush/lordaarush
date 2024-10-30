@@ -7,16 +7,14 @@
 
 - 👯 I’m looking to collaborate on **more end to end LLM projects**
 
-- 👨‍💻 All of my projects are available at [lordaarush.github.io](lordaarush.github.io)
+- 👨‍💻 My projects are available at [lordaarush.github.io](lordaarush.github.io)
 
 - 📫 How to reach me **lordaarush@gmail.com**
 
-<h3 align="left">
-  Connect with me: 
-  <a href="https://linkedin.com/in/aarushsinha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</h3>
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/aarushsinha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 
 
