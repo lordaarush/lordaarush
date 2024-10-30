@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **more end to end LLM projects**
 
-- 👨‍💻 My projects are available at [lordaarush.github.io](lordaarush.github.io)
+- 👨‍💻 My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
 
 - 📫 How to reach me **lordaarush@gmail.com**
 
