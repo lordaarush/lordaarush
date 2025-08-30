@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aarush Sinha</h1>
+<h1 align="center">Hi, I'm Aarush Sinha</h1>
 <h3 align="center">An AI/ML developer from New Delhi, India</h3>
 
-- 🔭 I’m currently working on **Finetuning LLM's and creating RAG workflows**
+- I’m currently working on **Finetuning LLM's and creating RAG workflows**
 
-- 👯 I’m looking to collaborate on **more end to end LLM projects**
+- I’m looking to collaborate on **more end to end LLM projects**
 
-- 👨‍💻 My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
+- My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
 
-- 📫 How to reach me **lordaarush@gmail.com**
+- How to reach me **lordaarush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/aarushsinha" target="_blank">
@@ -16,7 +16,7 @@
 
 
 
-# Tech Stack 👨🏻‍💻
+# Tech Stack 
 
 ### Programming & Data Analysis
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
