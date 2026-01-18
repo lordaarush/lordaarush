@@ -7,7 +7,7 @@
 
 - My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
 
-- How to reach me **lordaarush@gmail.com**
+- How to reach me **aarush@ml-research.in** or **lordaarush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/aarushsinha" target="_blank">
