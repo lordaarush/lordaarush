@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Aarush Sinha</h1>
 <h3 align="center">An AI/ML developer from New Delhi, India</h3>
 
-- I’m currently working on **Finetuning LLM's and creating RAG workflows**
+- Interested in machine learning, deep learning, and research-driven problem solving
 
-- I’m looking to collaborate on **more end to end LLM projects**
-
-- My projects are available at [lordaarush.github.io](https://lordaarush.github.io/)
+- I’m looking to collaborate on **research-focused projects**
 
 - How to reach me **aarush@ml-research.in** or **lordaarush@gmail.com**
 
